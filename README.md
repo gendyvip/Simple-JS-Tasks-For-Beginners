@@ -1,5 +1,5 @@
 # Simple-JS-Tasks-For-Beginners
-#You have to write these functions in console log to perform the code.
+You have to write these functions in console log to perform the code.
 compareNumbers();
 sumNumbers();
 iterateName();
