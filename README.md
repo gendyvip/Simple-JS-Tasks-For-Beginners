@@ -1,7 +1,7 @@
 # Simple-JS-Tasks-For-Beginners
-You have to write these functions in console log to perform the code.
-1- compareNumbers()
-2- sumNumbers()
-3- iterateName()
-4- getElementById()
+You have to write these functions in console log to perform the code.<br>
+1- compareNumbers()<br>
+2- sumNumbers()<br>
+3- iterateName()<br>
+4- getElementById()<br>
 Live Demo: https://gendyvip.github.io/Simple-JS-Tasks-For-Beginners/index.html
